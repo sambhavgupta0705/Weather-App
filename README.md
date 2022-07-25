@@ -7,6 +7,6 @@ It also gives future prediction of a week.
 
 I have also deployed it on netlify.com
 You can check it here
-https://tiny-gumdrop-143d05.netlify.app/
+https://weatherapiapp123.netlify.app/
 
 
